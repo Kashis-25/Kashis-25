@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashis Kumari</h1>
 <h3 align="center">Passionate About Turning Data into Insights</h3>
 
-<img align=“right” alt = “Coding” width= “400” src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdata-analytics-animation--311381761730704419%2F&psig=AOvVaw3k39iG_MZd9bZrQydSCpci&ust=1750697341315000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCM7fq9hY4DFQAAAAAdAAAAABBu">
+
 - 💬 Ask me about **SQL,Advanced Excel,Power BI,Python**
 
 - 📫 How to reach me **kumari.kashis.66@gmail.com**
